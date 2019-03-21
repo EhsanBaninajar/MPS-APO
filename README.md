@@ -14,5 +14,5 @@ In order to used SNESIM-APO or FILTERSIM-APO, Mgstat (https://sourceforge.net/pr
 
 ### Image Quilting
 
-
-## For any additional information or a bug report please contact me by e.baninajar@gmail.com
+#
+For any additional information or a bug report please contact me by e.baninajar@gmail.com
