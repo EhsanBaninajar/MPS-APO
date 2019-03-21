@@ -7,6 +7,6 @@ MPS automatic parameter optimizer (MPS-APO), a generic method based on stochasti
 # Installation
 Any available MPS code can be used for the simulation:
 
-SNESIM and FILTERSIM
+## SNESIM and FILTERSIM
 In order to used SNESIM-APO or FILTERSIM-APO, Mgstat (https://sourceforge.net/projects/mgstat/files/mGstat/) and SGEMS (http://sgems.sourceforge.net/?q=node/77) integration in matlab is needed. 
 
