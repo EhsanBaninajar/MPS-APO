@@ -8,7 +8,7 @@ MPS automatic parameter optimizer (MPS-APO), a generic method based on stochasti
 Although any implementation on MPS methods can be used in MPS-APO, in this study for SNESIM and FILTERSIM the SGeMS implementation (Remy et al. 2009), for Direct Sampling the Mariethoz et al. (2010) implementation and for Image Quilting the Mahmud et al. (2014) implementation of the methods are used. 
 
 ### SNESIM and FILTERSIM
-In order to used SNESIM-APO or FILTERSIM-APO, [mGstat](https://sourceforge.net/projects/mgstat/files/mGstat/) and [SGEMS](http://sgems.sourceforge.net/?q=node/77) integration in matlab is needed. 
+In order to use SNESIM-APO or FILTERSIM-APO, [mGstat](https://sourceforge.net/projects/mgstat/files/mGstat/) and [SGEMS](http://sgems.sourceforge.net/?q=node/77) integration in matlab is needed. 
 
 ### Direct Sampling
 In order to acquire the DS code used in DS-APO, please contact Gregoire Mariethoz. 
@@ -18,3 +18,6 @@ The Matlab code for MPS simulation by Image Quilting is available [here](https:/
 
 #
 For any additional information or a bug report please contact me at: e.baninajar@gmail.com
+
+Detailed documentation is available at: 
+Baninajar, E., Sharghi, Y. & Mariethoz, G. MPS-APO: a rapid and automatic parameter optimizer for multiple-point geostatistics. Stoch Environ Res Risk Assess 33, 1969–1989 (2019). https://doi.org/10.1007/s00477-019-01742-7
